@@ -1,6 +1,6 @@
 # small-project-java
 
-This is a small project I made at Objects-Oriented Programming
+This is a small excercise I made at Objects-Oriented Programming
 
 # Technologies
 
